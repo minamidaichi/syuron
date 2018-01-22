@@ -1,0 +1,20 @@
+画像の貼り付け方
+
+¥usepackage[dvipdfmx]{graphicx} %必要なパッケージ宣言
+
+%画像埋め込み用コード
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+¥begin{figure}[htbp]
+	¥begin{center} %貼り付ける位置指定
+		¥includegraphics[width = 75mm]{figures/tweets.pdf} %貼り付ける画像と大きさ
+	¥end{center}
+	¥caption{盛り上がっているツイート例} %キャプション
+	¥label{fig:tweet} %TEXコード内で使う変数指定
+¥end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+TEXコード内での使い方
+¥ref{fig:tweet} => N
+(図¥ref{fig:tweet})　=> (図N)
