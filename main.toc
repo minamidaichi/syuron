@@ -5,49 +5,51 @@
 \contentsline {subsection}{\numberline {1.2.1}協調フィルタリングによるアイテムの絞り込み}{3}
 \contentsline {subsection}{\numberline {1.2.2}レビュー推薦によるアイテムの品定め}{4}
 \contentsline {section}{\numberline {1.3}論文の構成}{5}
-\contentsline {chapter}{\numberline {第2章}関連研究}{6}
-\contentsline {section}{\numberline {2.1}情報推薦におけるフィードバックの活用}{6}
-\contentsline {section}{\numberline {2.2}レビューの品質推定}{7}
-\contentsline {section}{\numberline {2.3}レビューを利用した情報推薦}{7}
-\contentsline {section}{\numberline {2.4}協調フィルタリング拡張手法}{8}
-\contentsline {chapter}{\numberline {第3章}レビューへのフィードバックによる嗜好情報の取得}{9}
-\contentsline {chapter}{\numberline {第4章}レビュワーに基づくアイテムの絞り込み支援}{11}
-\contentsline {section}{\numberline {4.1}観点の違いを考慮したレビュワーの重み付け}{11}
-\contentsline {subsection}{\numberline {4.1.1}アイテム推薦における評価観点情報の活用}{11}
-\contentsline {subsection}{\numberline {4.1.2}システムの概要}{12}
+\contentsline {chapter}{\numberline {第2章}関連研究}{7}
+\contentsline {section}{\numberline {2.1}情報推薦におけるフィードバックの活用}{7}
+\contentsline {section}{\numberline {2.2}レビューの品質推定}{8}
+\contentsline {section}{\numberline {2.3}レビューを利用した情報推薦}{8}
+\contentsline {section}{\numberline {2.4}協調フィルタリング拡張手法}{9}
+\contentsline {chapter}{\numberline {第3章}レビューへのフィードバックによる嗜好情報の取得}{10}
+\contentsline {chapter}{\numberline {第4章}レビュワーに基づくアイテムの絞り込み支援}{12}
+\contentsline {section}{\numberline {4.1}観点の違いを考慮したレビュワーの重み付け}{12}
+\contentsline {subsection}{\numberline {4.1.1}アイテム推薦における評価観点情報の活用}{12}
+\contentsline {subsection}{\numberline {4.1.2}システムの概要}{13}
 \contentsline {subsection}{\numberline {4.1.3}LDAを用いた評価観点の解析}{13}
 \contentsline {subsubsection}{Latent Dirichlet Allocation（LDA）}{13}
 \contentsline {subsubsection}{LDAによる評価観点の学習}{14}
-\contentsline {subsubsection}{LDAによる評価観点の推論}{14}
-\contentsline {subsection}{\numberline {4.1.4}対象ユーザの評価嗜好の推定}{15}
-\contentsline {subsection}{\numberline {4.1.5}レビュワーに対する共感度の推定}{16}
-\contentsline {section}{\numberline {4.2}レビューの確信度を考慮したレビュワーの重み付け}{16}
-\contentsline {subsection}{\numberline {4.2.1}評価されたレビュワーに対する価値推定}{16}
-\contentsline {subsection}{\numberline {4.2.2}未評価のレビュワーに対する価値推定}{18}
-\contentsline {subsection}{\numberline {4.2.3}レビューの確信度について}{19}
-\contentsline {subsection}{\numberline {4.2.4}Doc2Vecによる文書のベクトル化について}{19}
-\contentsline {section}{\numberline {4.3}レビュワーの重みを利用した協調フィルタリングの拡張}{19}
-\contentsline {section}{\numberline {4.4}評価実験}{20}
-\contentsline {subsection}{\numberline {4.4.1}実験環境}{20}
-\contentsline {subsection}{\numberline {4.4.2}評価手法}{21}
-\contentsline {subsection}{\numberline {4.4.3}実験結果}{22}
-\contentsline {subsubsection}{観点の違いを考慮したレビュワーの重み付けによる結果}{22}
-\contentsline {subsubsection}{確信度に基づくレビュワーの重み付けによる結果}{22}
+\contentsline {subsubsection}{LDAによる評価観点の推論}{16}
+\contentsline {subsection}{\numberline {4.1.4}対象ユーザの評価嗜好の推定}{16}
+\contentsline {subsection}{\numberline {4.1.5}レビュワーに対する共感度の推定}{17}
+\contentsline {section}{\numberline {4.2}レビューの確信度を考慮したレビュワーの重み付け}{17}
+\contentsline {subsection}{\numberline {4.2.1}評価されたレビュワーに対する価値推定}{17}
+\contentsline {subsection}{\numberline {4.2.2}未評価のレビュワーに対する価値推定}{19}
+\contentsline {subsection}{\numberline {4.2.3}普段の発言との比較に基づくレビューの確信度計算}{20}
+\contentsline {subsection}{\numberline {4.2.4}Doc2Vecによる文書のベクトル化}{20}
+\contentsline {section}{\numberline {4.3}レビュワーの重みを利用した協調フィルタリングの拡張}{21}
+\contentsline {section}{\numberline {4.4}評価実験}{21}
+\contentsline {subsection}{\numberline {4.4.1}実験環境}{21}
+\contentsline {subsection}{\numberline {4.4.2}評価手法}{22}
+\contentsline {subsection}{\numberline {4.4.3}実験結果}{23}
+\contentsline {subsubsection}{観点の違いを考慮したレビュワーの重み付けによる結果}{23}
+\contentsline {subsubsection}{確信度に基づくレビュワーの重み付けによる結果}{23}
 \contentsline {section}{\numberline {4.5}議論}{24}
 \contentsline {subsection}{\numberline {4.5.1}観点の違いを考慮したレビュワーの重み付け}{24}
 \contentsline {subsection}{\numberline {4.5.2}確信度に基づくレビュワーの重み付け}{25}
-\contentsline {chapter}{\numberline {第5章}レビュワーの信頼度に基づくアイテムの品定め支援}{26}
-\contentsline {section}{\numberline {5.1}アイテムの品定めにおけるレビュー推薦の必要性}{26}
-\contentsline {section}{\numberline {5.2}レビュワーの信頼度に基づくレビュー推薦手法}{26}
-\contentsline {section}{\numberline {5.3}著者推定モデルによるレビューの確信度計算}{27}
-\contentsline {section}{\numberline {5.4}評価実験}{27}
-\contentsline {subsection}{\numberline {5.4.1}実験環境}{27}
-\contentsline {subsection}{\numberline {5.4.2}評価手法}{27}
-\contentsline {subsection}{\numberline {5.4.3}比較手法}{28}
-\contentsline {subsubsection}{投票数の多い順}{28}
-\contentsline {subsubsection}{サポートベクトル回帰・ランダムフォレスト回帰}{29}
-\contentsline {subsection}{\numberline {5.4.4}実験結果}{30}
-\contentsline {section}{\numberline {5.5}議論}{30}
-\contentsline {chapter}{\numberline {第6章}まとめ}{32}
-\contentsline {chapter}{謝辞}{33}
-\contentsline {chapter}{参考文献}{34}
+\contentsline {chapter}{\numberline {第5章}レビュワーの信頼度に基づくアイテムの品定め支援}{28}
+\contentsline {section}{\numberline {5.1}アイテムの品定めにおけるレビュー推薦の必要性}{28}
+\contentsline {section}{\numberline {5.2}レビュワーの信頼度に基づくレビュー推薦手法}{28}
+\contentsline {section}{\numberline {5.3}著者推定モデルによるレビューの確信度計算}{30}
+\contentsline {subsection}{\numberline {5.3.1}Deep Learningを用いた著者推定}{30}
+\contentsline {subsection}{\numberline {5.3.2}予備実験}{30}
+\contentsline {section}{\numberline {5.4}評価実験}{31}
+\contentsline {subsection}{\numberline {5.4.1}実験環境}{31}
+\contentsline {subsection}{\numberline {5.4.2}評価手法}{32}
+\contentsline {subsection}{\numberline {5.4.3}比較手法}{32}
+\contentsline {subsubsection}{投票数の多い順}{33}
+\contentsline {subsubsection}{サポートベクトル回帰・ランダムフォレスト回帰}{33}
+\contentsline {subsection}{\numberline {5.4.4}実験結果}{34}
+\contentsline {section}{\numberline {5.5}議論}{34}
+\contentsline {chapter}{\numberline {第6章}まとめ}{36}
+\contentsline {chapter}{謝辞}{38}
+\contentsline {chapter}{参考文献}{39}

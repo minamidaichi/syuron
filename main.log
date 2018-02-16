@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.6)  25 JAN 2018 15:19
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.6)  26 JAN 2018 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -191,47 +191,35 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 (./enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks25
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
 )
 \@indexfile=\write3
 \openout3 = `main.idx'.
 
 
 Writing index file main.idx
-(./main.aux (./title.aux)
-
-LaTeX Warning: Label `fig:result1' multiply defined.
-
-
-LaTeX Warning: Label `fig:result2' multiply defined.
-
-
-LaTeX Warning: Label `subsec:p' multiply defined.
-
-
-LaTeX Warning: Label `mecab' multiply defined.
-
-
-LaTeX Warning: Label `mecabdic' multiply defined.
-
-)
+(./main.aux (./title.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 \openout2 = `title.aux'.
 
  (./title.tex
@@ -253,25 +241,25 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 
 ])
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 48.
+(Font)              scaled to size 23.90964pt on input line 49.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 48.
+(Font)              scaled to size 23.90964pt on input line 49.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 48.
+(Font)              scaled to size 23.90964pt on input line 49.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 48.
+(Font)              scaled to size 23.90964pt on input line 49.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 53.
+(Font)              scaled to size 9.60999pt on input line 54.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 53.
+(Font)              scaled to size 9.60999pt on input line 54.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 53.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 53.
+(Font)              scaled to size 9.60999pt on input line 54.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 53.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 53.
+(Font)              scaled to size 9.60999pt on input line 54.
  [1
 
 
@@ -304,13 +292,13 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
  [3]
 第1章
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 58.
+(Font)              scaled to size 19.9311pt on input line 59.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 58.
+(Font)              scaled to size 19.9311pt on input line 59.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 59.
+(Font)              scaled to size 13.83836pt on input line 60.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 59.
+(Font)              scaled to size 13.83836pt on input line 60.
 [1
 
 
@@ -318,123 +306,138 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 File: figures/spam_review.pdf Graphic file (type pdf)
  <figures/spam_review.pdf>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 71.
+(Font)              scaled to size 8.64899pt on input line 72.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 71.
+(Font)              scaled to size 8.64899pt on input line 72.
 File: figures/review_example.pdf Graphic file (type pdf)
- <figures/review_example.pdf>
+ <figures/review_example.pdf> [2]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 86.
+(Font)              scaled to size 11.53198pt on input line 87.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 86.
-File: figures/compare.pdf Graphic file (type pdf)
+(Font)              scaled to size 11.53198pt on input line 87.
+File: figures/item_selection.pdf Graphic file (type pdf)
 
-<figures/compare.pdf> [2] [3] [4] [5]
+<figures/item_selection.pdf>
+File: figures/compare.pdf Graphic file (type pdf)
+ <figures/compare.pdf> [3]
+File: figures/ranking_image.pdf Graphic file (type pdf)
+
+<figures/ranking_image.pdf> [4] [5] [6]
 第2章
-[6
+[7
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 131.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 148.
 
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
- [7] [8]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 148.
+ [8] [9]
 第3章
 File: figures/feedback_image.pdf Graphic file (type pdf)
-<figures/feedback_image.pdf> [9
+<figures/feedback_image.pdf> [10
 
-] [10]
+] [11]
 第4章
-[11
+[12
 
 ]
 File: figures/sys_image.pdf Graphic file (type pdf)
- <figures/sys_image.pdf> [12]
+ <figures/sys_image.pdf> [13]
 File: figures/LDA.pdf Graphic file (type pdf)
- <figures/LDA.pdf> [13] [14] [15]
-File: figures/confidence.pdf Graphic file (type pdf)
+ <figures/LDA.pdf> [14] [15] [16] [17]
 
-<figures/confidence.pdf> [16]
+LaTeX Warning: Reference `subsec:p' on page 18 undefined on input line 309.
+
+File: figures/confidence.pdf Graphic file (type pdf)
+<figures/confidence.pdf>
 File: figures/trust1.pdf Graphic file (type pdf)
- <figures/trust1.pdf> [17]
+ <figures/trust1.pdf> [18]
 File: figures/trust2.pdf Graphic file (type pdf)
  <figures/trust2.pdf>
-[18]
+[19] [20]
 File: figures/model.pdf Graphic file (type pdf)
- <figures/model.pdf> [19] [20]
+ <figures/model.pdf> [21] [22]
 File: figures/result_topic.pdf Graphic file (type pdf)
- <figures/result_topic.pdf> [21]
+ <figures/result_topic.pdf>
 File: figures/res_gamma.jpeg Graphic file (type bmp)
 
 <figures/res_gamma.jpeg>
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 416.
+(Font)              scaled to size 5.76599pt on input line 432.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 416.
+(Font)              scaled to size 8.64899pt on input line 432.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 416.
+(Font)              scaled to size 5.76599pt on input line 432.
 File: figures/res_beta.jpeg Graphic file (type bmp)
  <figures/res_beta.jpeg>
 File: figures/result2.pdf Graphic file (type pdf)
- <figures/result2.pdf>
+ <figures/result2.pdf> [23]
 File: figures/result.pdf Graphic file (type pdf)
 
-<figures/result.pdf> [22] [23] [24] [25]
+<figures/result.pdf> [24] [25] [26] [27]
 第5章
-[26
+[28
 
 ]
+File: figures/rev_method_image.pdf Graphic file (type pdf)
+ <figures/rev_method_image.pdf> [29]
 File: figures/author_model.pdf Graphic file (type pdf)
- <figures/author_model.pdf> [27]
+ <figures/author_model.pdf> [30]
+File: figures/author_result.pdf Graphic file (type pdf)
+
+<figures/author_result.pdf>
+File: figures/author_result2.pdf Graphic file (type pdf)
+ <figures/author_result2.pdf> [31]
 File: figures/bookmeter_vote.png Graphic file (type bmp)
- <figures/bookmeter_vote.png> [28] [29]
+
+<figures/bookmeter_vote.png> [32] [33]
 File: figures/review_result1.pdf Graphic file (type pdf)
-
-<figures/review_result1.pdf>
+ <figures/review_result1.pdf>
 File: figures/review_result2.pdf Graphic file (type pdf)
- <figures/review_result2.pdf> [30] [31]
-第6章
-[32
 
-] [33
+<figures/review_result2.pdf> [34] [35]
+第6章
+[36
+
+] [37] [38
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 548--549
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
 []\OT1/cmr/m/n/10 http://booksearch.blogspot.jp/2010/08/books-of-world-stand-up
 -and-be-counted.html,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+Underfull \hbox (badness 10000) in paragraph at lines 607--608
 []\OT1/cmr/m/n/10 "GDP \JY1/mc/m/n/10 に現れない \OT1/cmr/m/n/10 ICT \JY1/mc/m/
 n/10 の社会的厚生への貢献に関する調査研究\OT1/cmr/m/n/10 ",
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
+Underfull \hbox (badness 10000) in paragraph at lines 617--618
 []\OT1/cmr/m/n/10 A Sta-tis-ti-cal Anal-y-sis of 1.2 Mil-lion Ama-zon Re-views:
 
  []
 
-[34
+[39
 
-] [35] [36] [37
+] [40] [41] [42] [43
 
 ] (./main.aux (./title.aux))
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2314 strings out of 493693
- 28261 string characters out of 6149788
- 94210 words of memory out of 5000000
- 5803 multiletter control sequences out of 15000+600000
+ 2441 strings out of 493693
+ 30207 string characters out of 6149788
+ 98406 words of memory out of 5000000
+ 5922 multiletter control sequences out of 15000+600000
  24051 words of font info for 108 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,9n,26p,1405b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,9n,26p,1405b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (41 pages, 118340 bytes).
+Output written on main.dvi (47 pages, 132604 bytes).
